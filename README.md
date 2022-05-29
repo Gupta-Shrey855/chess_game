@@ -1,2 +1,2 @@
 # chess_game
-It is a chess game built with javascript 
+It is a chess game built with javascript and css
